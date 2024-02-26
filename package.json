@@ -1,0 +1,24 @@
+{
+  "name": "sigma-npm-package",
+  "version": "1.0.0",
+  "description": "Project for transformation man to sigma person",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azazlokus/sigma-npm-package.git"
+  },
+  "keywords": [
+    "NPM",
+    "Sigma",
+    "Booster"
+  ],
+  "author": "Azazlokus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Azazlokus/sigma-npm-package/issues"
+  },
+  "homepage": "https://github.com/Azazlokus/sigma-npm-package#readme"
+}
